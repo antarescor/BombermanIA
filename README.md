@@ -1,1 +1,2 @@
-# BombermanIA
+# BombermanIA Fue creado como parte de la asignatura Inteligencia Artificial de la Universidad del Valle. En este proyecto se imlementa el algoritmo A* en bomberman para que este: a) huya de los enemigos, b) busque y rompa los bloques que se puden romper y c) encuentre la salida del mapa y asi gane el juego.
+Para l I.A de los enemigos se implementarosn comportamientos simples de agentes guiados por un conjunto de reglas escritas en archivos de texto plano.
